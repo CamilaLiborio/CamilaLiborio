@@ -1,6 +1,5 @@
 # Olá!👋​
 
---- 
 
 🎓 **Meu nome é Camila Libório. Nesse perfil além de projetos acadêmicos, veja também alguns projetos que eu mesma desenvolvi.**
 
@@ -10,6 +9,7 @@
 - ​🚀 **Atualmente Estudando:** Desenvolvimento Web e Banco de dados.
 
 ---
+
 ## 🛠️ Tecnologias & Ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
