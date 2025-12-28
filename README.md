@@ -1,7 +1,8 @@
 # Olá!👋​
 
 
-🎓 **Meu nome é Camila Libório. Nesse perfil além de projetos acadêmicos, veja também alguns projetos que eu mesma desenvolvi.**
+🎓 **Meu nome é Camila Libório. Estudante da Universidade Mogi das Cruzes (UMC). Estou no 2° Semestre da Graduação Tecnológica em Análise e Desenvolvimento de Sistemas (ADS).
+    Nesse perfil além de projetos acadêmicos, veja também alguns projetos que eu mesma desenvolvi.**
 
 - 📚​ **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Tecnólogo).
 - 🧠​ **1° Semestre:** Redes e Segurança; Python e desafios de programação em Python
