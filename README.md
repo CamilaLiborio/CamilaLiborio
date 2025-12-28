@@ -9,9 +9,7 @@
 - ​🚀 **Atualmente Estudando:** Desenvolvimento Web e Banco de dados.
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
-## ​👩‍💻​ Tecnologias
+# ​👩‍💻​ Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -23,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;
 </div>
 
-## ​​💻​ Ferramentas
+# ​​💻​ Ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
