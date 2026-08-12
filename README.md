@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" style="margin-right:20px; margin-top:15px;"/>
+  <img src="https://icons8.com.br/icon/w1Gq29w4RQWL/intellij-idea" width="40" height="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
