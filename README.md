@@ -1,4 +1,4 @@
-# Olá!👋​
+# Olá!👋🏻​
 
 
 🎓 **Meu nome é Camila Libório, tenho 18 anos, sou estudante da Universidade Mogi das Cruzes (UMC). Estou no 4° Semestre da Graduação Tecnológica em Análise e Desenvolvimento de Sistemas (ADS).
