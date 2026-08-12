@@ -21,17 +21,17 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="40" style="margin-right:20px; margin-            top:15px;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" width="40" style="margin-right:20px;      margin-top:15px;"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="40" style="margin-right:20px;          margin-top:15px;"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
 </div>
 
