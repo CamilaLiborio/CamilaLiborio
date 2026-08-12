@@ -4,7 +4,7 @@
 🙋🏼 **Meu nome é Camila Libório, tenho 18 anos, sou estudante da Universidade Mogi das Cruzes (UMC). Estou no 4° Semestre da Graduação Tecnológica em Análise e Desenvolvimento de Sistemas (ADS).
     Nesse perfil além de projetos acadêmicos, veja também alguns projetos que eu mesma desenvolvi.**
 
-- 📚🎓​ **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Tecnólogo).
+- 🎓​ **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Tecnólogo).
 - 🧠​ **1° Semestre:** Redes e Segurança; Python e desafios de programação em Python
 - 💻​ **2° Semestre:** HTML, CSS, JavaScript, PHP, Banco de Dados NoSql e MySql.
 - 🏢 **3° Semestre:** Administração de Sistemas de Informação — processos empresariais através da tecnologia (ERP, SCM, CRM e BI); Também: Projeto de             Software e Segurança da Informação — Java, Spring Boot, pilares da segurança da informação (CID) e principais ameaças (malware, phishing e outras).
