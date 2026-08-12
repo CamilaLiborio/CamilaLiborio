@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="50" style="margin-right:20px; margin-top:15px;"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="45" style="margin-right:20px; margin-top:15px;"/>
   &nbsp;&nbsp;&nbsp;
 </div>
 
