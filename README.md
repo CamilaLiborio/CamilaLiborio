@@ -7,7 +7,7 @@
 - 🎓​ **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Tecnólogo).
 - 🧠​ **1° Semestre:** Redes e Segurança; Python e desafios de programação em Python
 - 💻​ **2° Semestre:** HTML, CSS, JavaScript, PHP, Banco de Dados NoSql e MySql.
-- 🏢 **3° Semestre:** Administração de Sistemas de Informação — processos empresariais através da tecnologia (ERP, SCM, CRM e BI); Também: Projeto de             Software e Segurança da Informação — Java, Spring Boot, pilares da segurança da informação (CID) e principais ameaças (malware, phishing e outras).
+- 📚 **3° Semestre:** Administração de Sistemas de Informação — processos empresariais através da tecnologia (ERP, SCM, CRM e BI); Também: Projeto de             Software e Segurança da Informação — Java, Spring Boot, pilares da segurança da informação (CID) e principais ameaças (malware, phishing e outras).
 - ​🚀 **Atualmente Estudando:(4° Semestre)** Análise e Implementação de Software e Governança de TI.
 
 ---
